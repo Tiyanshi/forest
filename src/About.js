@@ -12,7 +12,7 @@ function About() {
                     <h1 className='about_selectone'><ArrowForwardIosIcon/>About</h1>
                 </div>
                 <div className ="about_left_body">
-                    <p>Weèeeee all know that large amount of Deforestation has taken place since the the time our Earth has come to evolvement</p>
+                    <p>We all know that large amount of Deforestation has taken place since the the time our Earth has come to evolvement</p>
                     <p><strong>Forest Search</strong> is an online platform that is meant to concentrate on the <b>rainforestment of plants or trees.</b>
                     It provides details about the
                     <strong> tree cover loss</strong> that has taken place throughtout the <strong>Indian States</strong>  in the past years. Also, 
